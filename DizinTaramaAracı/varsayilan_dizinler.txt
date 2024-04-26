@@ -1,0 +1,17 @@
+admin
+login
+wp-admin
+phpmyadmin
+database
+config
+conf
+backup
+old
+test
+dev
+shell
+cmd
+uploads
+files
+.git
+cgi-bin
