@@ -14,3 +14,5 @@ python dizin.py -h
 -u yada --url Taranacak Url adresin girilmesi zorunludur
 
 -w yada --wordlist elinizde mevcut listesiyi sitede taratmak isterseniz yolunu belirtmeniz gerekiyor. Elinizde yoksa varsayilan olarak dizin listesini kullanacaktır. 
+
+  ![resim](https://github.com/ibrahimkadikiran/dizin-bulma-araci/assets/87862501/5c80c635-cf19-4c5a-9d48-5f47dbfaa1d3)
